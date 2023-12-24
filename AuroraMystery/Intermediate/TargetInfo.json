@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AuroraMystery",
+			"Path": "..\\Source\\AuroraMystery.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AuroraMysteryEditor",
+			"Path": "..\\Source\\AuroraMysteryEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

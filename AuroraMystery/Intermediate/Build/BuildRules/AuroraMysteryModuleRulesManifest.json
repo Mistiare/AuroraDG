@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Work\\Projects\\Unreal\\AuroraDG\\AuroraMystery\\Source\\AuroraMystery\\AuroraMystery.Build.cs",
+		"C:\\Work\\Projects\\Unreal\\AuroraDG\\AuroraMystery\\Plugins\\UEGitPlugin-release\\Source\\GitSourceControl\\GitSourceControl.Build.cs",
+		"C:\\Work\\Projects\\Unreal\\AuroraDG\\AuroraMystery\\Source\\AuroraMystery.Target.cs",
+		"C:\\Work\\Projects\\Unreal\\AuroraDG\\AuroraMystery\\Source\\AuroraMysteryEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

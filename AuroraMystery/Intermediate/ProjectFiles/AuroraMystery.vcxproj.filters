@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AuroraMystery.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AuroraMystery.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AuroraMysteryEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AuroraMystery">
+      <UniqueIdentifier>{1ADA7664-3EDC-381A-8011-F56482176A99}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AuroraMystery\AuroraMystery.Build.cs">
+      <Filter>Source\AuroraMystery</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AuroraMystery\AuroraMystery.cpp">
+      <Filter>Source\AuroraMystery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AuroraMystery\AuroraMystery.h">
+      <Filter>Source\AuroraMystery</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
